@@ -39,7 +39,7 @@ name="submit" value="Submit" />
 // DB connection info
 $host = "localhost\sqlexpress";
 $user = "user name";
-$pwd = "password";
+$pwd = "qwerty123456";
 $db = "registration";
 // Connect to database.
 try {
